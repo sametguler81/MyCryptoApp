@@ -41,10 +41,12 @@ Quantora: Yapay Zekâ Destekli Dijital Kripto Varlık Analiz ve Takip Uygulamas�
   SharedPreferences are utilized to provide a modern and visually appealing user experience 
   both functionally and aesthetically. 
 
-<table>
+<table align="center">
   <tr>
     <td><img src="images/giris.png" alt="Giriş Ekranı" width="200"/></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Boşluk -->
     <td><img src="images/anasayfa.png" alt="Ana Sayfa" width="200"/></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Boşluk -->
     <td><img src="images/detayekrani.png" alt="Detay Sayfası" width="200"/></td>
   </tr>
 </table>
