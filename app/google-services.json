@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250979653289",
+    "project_id": "cryptoapptez",
+    "storage_bucket": "cryptoapptez.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250979653289:android:91bae8c3ab2f1916167bb8",
+        "android_client_info": {
+          "package_name": "com.sametguler.mycryptoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAe85Bp5RBV0yq68gBoVZFYMT5-vhnio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
